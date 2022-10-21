@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		// Tamanho para teste
-		int tamanho = 1000;
+		int tamanho = 5;
 		
 		System.out.println("LISTA ENCADEADA EST�TICA\n========================");
 		
